@@ -1,6 +1,6 @@
 ### Install
 
-``
+```
 mkdir ~/git && cd git
 git clone https://github.com/monosans/proxy-list
 git clone https://github.com/soko1/get_random_proxy
